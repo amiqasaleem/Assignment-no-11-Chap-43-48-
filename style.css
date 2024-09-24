@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/**************Task 02 Styling*******************/
+
+/* .containers{
+    text-align: center;
+    height: 40vh;
+    display: flex;
+}
+h2{
+    margin: 15px;
+}
+.phone {
+    width: 16vw;
+    margin: 1.5vw;
+}
+p {
+    margin-top: 1vw;
+    font-size: 1vw;
+}
+.img {
+    width: 100px;
+    padding-left: 20px;
+}
+.img-4{
+    width: 130px;
+}
+.img-3 {
+    width: 120px;
+} */
+
+/**************Task 03 Styling*******************/
+
+/* table{
+    border-collapse: collapse;
+}
+td, th {
+    padding: 10px 20px;
+}
+tr button {
+    background-color: rgb(58, 57, 57);
+    color: white;
+    border: none;
+    padding: 0.2vw 0.5vw;
+    cursor: pointer;
+} */
+
+/**************Task 05 Styling*******************/
+
+/* .counter-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.counter-container #increase, #decrease, #counter {
+    width: 10vw;
+    padding: 2vw;
+    margin: 1vw;
+    background-color: rgb(216, 179, 250);
+    border: 2px solid black;
+    color: rgb(82, 2, 82);
+    font-size: 4vw;
+    border-radius: 5px;
+    text-align: center;
+} */
